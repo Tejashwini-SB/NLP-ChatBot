@@ -16,6 +16,7 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
 
 # Download required NLTK data
+nltk.download('punkt_tab')
 nltk.download('punkt')
 nltk.download('wordnet')
 
