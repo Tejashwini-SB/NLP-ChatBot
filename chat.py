@@ -8,7 +8,7 @@ import json
 import numpy as np
 import streamlit as st
 import pyttsx3
-import pyaudio
+
 import speech_recognition as sr
 from nltk.stem import WordNetLemmatizer
 from sklearn.preprocessing import LabelEncoder
