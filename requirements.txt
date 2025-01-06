@@ -6,6 +6,7 @@ tensorflow
 scikit-learn
 pyttsx3
 SpeechRecognition
+pyaudio
 
 
 
