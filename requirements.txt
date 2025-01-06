@@ -6,6 +6,6 @@ tensorflow
 scikit-learn
 pyttsx3
 SpeechRecognition
-pyaudio==0.2.14
+
 
 
